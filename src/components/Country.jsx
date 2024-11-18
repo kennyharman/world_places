@@ -20,7 +20,7 @@ export const Country = ({ country }) => {
         </p>
 
         <p className="field">
-          <span>Caspanital:</span>
+          <span>Capital:</span>
           <span>{country.capital}</span>
         </p>
 
